@@ -113,15 +113,6 @@ Optional follow-up prompts + conversational memory
 
 The model successfully classifies user intent and generates relevant responses. Some outputs were incoherent, indicating that further training and algorithmic refinement are needed before production use.
 
----
-
-## Future Plans
-
-- [ ] Enhance long-term conversational memory for better context tracking
-- [ ] Integrate larger and more diverse conversational datasets
-- [ ] Experiment with lower learning rates and adaptive optimizers to reduce overfitting
-- [ ] Build a web-based UI for general-purpose deployment
-- [ ] Train on Project CodeNet C/C++ data to support code understanding, error diagnosis, and code generation
 
 ---
 
